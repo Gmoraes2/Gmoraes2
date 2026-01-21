@@ -2,11 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Atualmente, sou estudante de Ciência da Computação na Anhanguera Educacional, com grande interesse em tecnologia e desenvolvimento de software. Minha jornada acadêmica tem sido focada no aprendizado de linguagens de programação e conceitos fundamentais da computação, incluindo HTML,CSS e JavaScript, além de Python.
+Sou estudante de Ciência da Computação na Anhanguera Educacional, com grande interesse em tecnologia e desenvolvimento de software. Minha formação acadêmica é voltada ao aprendizado de linguagens de programação e fundamentos da computação, com conhecimentos em HTML, CSS, JavaScript e Python.
 
-Já explorei o desenvolvimento Web básico e adquiri conhecimento introdutório em JavaScript. Embora ainda não tenha experiência profissional, estou sempre em busca de desafios que me permitam aplicar e expandir meus conhecimentos.
+Possuo experiência em desenvolvimento web, controle de versão com Git e conhecimentos introdutórios em SQL para manipulação de bancos de dados. Embora ainda não tenha experiência profissional, busco oportunidades de estágio ou primeiro emprego que me permitam aplicar na prática os conhecimentos adquiridos e evoluir tecnicamente.
 
-Sou motivado pelo aprendizado contínuo e estou aberto a explorar diversas áreas dentro da tecnologia, incluindo desenvolvimento de software. Meu objetivo é construir uma base sólida de habilidades técnicas e contribuir de forma significativa para o setor de tecnologia no futuro.
+Destaco-me por ter aprendizagem rápida, facilidade para trabalho em equipe, proatividade e disposição constante para melhorar, características que contribuem para um bom desempenho em ambientes colaborativos e dinâmicos. Meu objetivo é desenvolver uma base sólida de habilidades técnicas e crescer profissionalmente na área de tecnologia.
+
+📌 Portfólio GitHub:
+👉 https://github.com/Gmoraes2
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/gabriel-moraes-pinheiro-1138a6330/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
