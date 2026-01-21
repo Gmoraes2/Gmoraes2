@@ -8,8 +8,7 @@ Possuo experiência em desenvolvimento web, controle de versão com Git e conhec
 
 Destaco-me por ter aprendizagem rápida, facilidade para trabalho em equipe, proatividade e disposição constante para melhorar, características que contribuem para um bom desempenho em ambientes colaborativos e dinâmicos. Meu objetivo é desenvolver uma base sólida de habilidades técnicas e crescer profissionalmente na área de tecnologia.
 
-📌 Portfólio GitHub:
-👉 https://github.com/Gmoraes2
+
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/gabriel-moraes-pinheiro-1138a6330/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
