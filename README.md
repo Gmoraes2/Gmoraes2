@@ -66,14 +66,14 @@ Destaco-me por ter aprendizagem rápida, facilidade para trabalho em equipe, pro
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /> -->
-<!-- <img
+ <img
     align="left"
     alt="React"
     title="React"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/> -->
+/> 
 <!-- <img
     align="left"
     alt="Next.js"
@@ -90,14 +90,14 @@ Destaco-me por ter aprendizagem rápida, facilidade para trabalho em equipe, pro
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 /> -->
-<!-- <img
+ <img
     align="left"
     alt="Tailwind"
     title="Tailwind"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/> -->
+/> 
 <!-- <img
     align="left"
     alt="SASS"
