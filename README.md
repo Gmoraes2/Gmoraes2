@@ -2,11 +2,15 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Ciência da Computação na Anhanguera Educacional, com grande interesse em tecnologia e desenvolvimento de software. Minha formação acadêmica é voltada ao aprendizado de linguagens de programação e fundamentos da computação, com conhecimentos em HTML, CSS, JavaScript e Python.
+Me chamo Gabriel Moraes, tenho 20 anos e estou cursando o 7º período de Ciência da Computação na Anhanguera.
 
-Possuo experiência em desenvolvimento web, controle de versão com Git e conhecimentos introdutórios em SQL para manipulação de bancos de dados. Embora ainda não tenha experiência profissional, busco oportunidades de estágio ou primeiro emprego que me permitam aplicar na prática os conhecimentos adquiridos e evoluir tecnicamente.
+Tenho grande interesse em desenvolvimento de software e produtos digitais, especialmente no contexto web. Ao longo da graduação venho desenvolvendo base sólida em lógica, estruturas de dados e orientação a objetos, além de experiência prática com HTML, CSS, JavaScript, Node.js, React. Também possuo conhecimentos em banco de dados e integração com APIs REST.
 
-Destaco-me por ter aprendizagem rápida, facilidade para trabalho em equipe, proatividade e disposição constante para melhorar, características que contribuem para um bom desempenho em ambientes colaborativos e dinâmicos. Meu objetivo é desenvolver uma base sólida de habilidades técnicas e crescer profissionalmente na área de tecnologia.
+Tenho facilidade em aprender novas tecnologias e gosto de entender não apenas “como funciona”, mas o “porquê” das decisões técnicas. Já desenvolvi projetos acadêmicos e pessoais envolvendo front-end e back-end, o que me deu visão fullstack e noção de organização de código, consumo de APIs, estruturação de componentes e manipulação de dados.
+
+Mesmo buscando minha primeira oportunidade profissional, tenho postura mão na massa, organização nas tarefas e abertura total para feedback. Estou pronto para aprender com engenheiros mais experientes, contribuir com o time e evoluir rapidamente dentro de um ambiente de produto.
+
+Meu objetivo é crescer como desenvolvedor, contribuir com entregas consistentes e me tornar cada vez mais preparado para assumir responsabilidades maiores dentro da área de tecnologia.
 
 
 
